@@ -41,7 +41,7 @@ namespace Lesson_4_Programming_Project
             catch
             {
                 Console.Out.WriteLine("Error invalid phone number");
-                Console.Out.WriteLine("Hit enter to close the program");
+                Console.Out.WriteLine("Hit enter to close the program ");
             }
             Console.In.ReadLine();
         }
